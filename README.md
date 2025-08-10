@@ -1,4 +1,4 @@
-# 🧠 cubcheck
+# 🧠 Terminal-Diagnostics
 
 A lightweight Python script to monitor and display system information including memory usage, disk stats, and mounted partitions. Built for quick terminal diagnostics and a touch of DevOps flair. 🐾
 
